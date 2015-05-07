@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2013\Projects\KeyboardControlProject\KeyboardControlProject\bin\Debug\KeyboardControlProject.exe.config
+\\psf\home\documents\visual studio 2013\Projects\KeyboardControlProject\KeyboardControlProject\bin\Debug\KeyboardControlProject.exe
+\\psf\home\documents\visual studio 2013\Projects\KeyboardControlProject\KeyboardControlProject\bin\Debug\KeyboardControlProject.pdb
+\\psf\home\documents\visual studio 2013\Projects\KeyboardControlProject\KeyboardControlProject\obj\Debug\KeyboardControlProject.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\KeyboardControlProject\KeyboardControlProject\obj\Debug\KeyboardControlProject.Form1.resources
+\\psf\home\documents\visual studio 2013\Projects\KeyboardControlProject\KeyboardControlProject\obj\Debug\KeyboardControlProject.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\KeyboardControlProject\KeyboardControlProject\obj\Debug\KeyboardControlProject.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\KeyboardControlProject\KeyboardControlProject\obj\Debug\KeyboardControlProject.exe
+\\psf\home\documents\visual studio 2013\Projects\KeyboardControlProject\KeyboardControlProject\obj\Debug\KeyboardControlProject.pdb
